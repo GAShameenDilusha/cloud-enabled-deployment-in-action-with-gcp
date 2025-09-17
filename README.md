@@ -1,11 +1,9 @@
 # Cloud-Enabled-Deployment-with-GCP
-
 This comprehensive tutorial offers detailed instructions for configuring and launching the frontend application, deploying backend microservices, and modifying configuration files for Google Cloud Platform (GCP) implementation.
 
 ---
 
 ## How This Project Works: Video Overview
-
 Watch the following video for an explanation of how the Cloud-Enabled-Deployment-with-GCP project works:
 
 [How This Project Works - Cloud-Enabled Deployment Demo](https://drive.google.com/file/d/1lryvQrpA1xgx_RUXzadk44CM-NGUkKsX/view?usp=sharing)
