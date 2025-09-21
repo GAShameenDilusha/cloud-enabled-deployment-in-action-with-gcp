@@ -2,6 +2,12 @@
 This comprehensive tutorial offers detailed instructions for configuring and launching the frontend application, deploying backend microservices, and modifying configuration files for Google Cloud Platform (GCP) implementation.
 
 ---
+## Student Information
+
+- *Name:* Shameen Dilusha
+- *Student Registration Number:* 2301671012
+- *Email Address:* shameendilusha@gmail.com
+---
 
 ## How This Project Works: Video Overview
 Watch the following video for an explanation of how the Cloud-Enabled-Deployment-with-GCP project works:
